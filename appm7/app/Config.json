@@ -1,0 +1,17 @@
+{
+	"driver":"mysql",
+    "dbname":"agencia_viajes",
+    "dbhost":"localhost",
+    "dbuser":"root",
+    "dbpass":"root",
+	"app_data":{
+    	"css":"css/app.css",
+    	"js":"js/application.js",
+        "titol":"Aida Framework",
+        "logo":"img/logo.png",
+        "apli":"",
+        "theme":"pub/themes/k/",
+        "app_w":"",
+        "imagenes":"img/"
+    }
+}
